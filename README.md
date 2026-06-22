@@ -120,8 +120,8 @@ public:
 ✅ Graphs (BFS / DFS)        🔄 Advanced Graph Algorithms
 ```
 
+<!--
 ---
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -140,6 +140,18 @@ public:
 > 💡 **Note:** Actively building and improving projects. Check back regularly for updates!
 
 ---
+
+-->
+
+## 🚀 Projects
+
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| 💰 **AI Spend Audit** | AI-powered spend auditing tool | TypeScript | [Repo](https://github.com/bhakunisagar512-ui/ai-spend-audit) |
+| 🎓 **Prepare AI** | Hackathon project that helps you prepare for any exam | JavaScript | [Repo](https://github.com/bhakunisagar512-ui/prepare-ai) |
+| 💸 **Spend Track** | Full-stack expense tracker with Google Sign-In auth, expense management, and AI-powered auto-categorization using the Gemini API. Built with React, Node.js, and PostgreSQL — fully Dockerized | React, Node.js, PostgreSQL | [Repo](https://github.com/bhakunisagar512-ui/spend-track) |
+| 🌡️ **Urban Heat Env** | AI-powered environment simulation to optimize urban heat reduction using greedy optimization and reinforcement learning | Python | [Repo](https://github.com/bhakunisagar512-ui/urban-heat-env) |
+
 
 ## 📊 GitHub Analytics
 
