@@ -33,6 +33,7 @@ public:
     string college     = "ABES Engineering College Ghaziabad";
     string location    = "India";
     string status      = "Actively Seeking Internship / Entry-Level Roles";
+    string email       = "bhakunisagar512@gmail.com"
 
     vector<string> interests = {
         "Data Structures & Algorithms",
